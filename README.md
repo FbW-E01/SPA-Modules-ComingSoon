@@ -16,7 +16,4 @@ Using the [Boilerplate](./template.md) provided, create a coming soon webpage. T
 
 ### Rules
 
--   This is an individual assignment.
--   Deadline: 2 hours.
-
-
+-   This is an individual assignment
